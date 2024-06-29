@@ -68,8 +68,7 @@ background: linear-gradient(to right, #7a2828, #a73737); /* W3C, IE 10+/ Edge, F
 
 }
 .gulab:hover{
-    height: 430px;
-    width: 1000px;
+    transform:scale(1.2);
 
 
 }
@@ -101,8 +100,7 @@ height: 400px;
     transition-delay: 0s;
 }
 .kazu:hover{
-    height: 430px;
-    width: 900px;
+    transform:scale(1.2);
 
 }
 #list2{
@@ -133,8 +131,7 @@ height: 400px;
     transition-delay: 0s;
 }
 .ras:hover{
-    height: 430px;
-    width: 1000px;
+   transform:scale(1.2);
 
 }
 #list3{
